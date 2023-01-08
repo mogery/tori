@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6a129b7.css",
+    "main.js": "/static/js/main.88af7ddc.js",
+    "static/js/787.8d9e418e.chunk.js": "/static/js/787.8d9e418e.chunk.js",
+    "static/media/language-solid.svg": "/static/media/language-solid.79ae420b8b3456fe2b44e023b52de173.svg",
+    "index.html": "/index.html",
+    "static/media/crown-solid.svg": "/static/media/crown-solid.f278a3b9d799b580be695adb30797ad1.svg",
+    "static/media/book-solid.svg": "/static/media/book-solid.26d6d35fc7f56b08f041d3932a61ab55.svg",
+    "static/media/question-solid.svg": "/static/media/question-solid.b1ad5fecb8c78bc730e6381d97f57998.svg",
+    "static/media/paintbrush-solid.svg": "/static/media/paintbrush-solid.6a0fec1ed3ad6dcb68e9154b219e2263.svg",
+    "static/media/calendar-regular.svg": "/static/media/calendar-regular.ef9045086bc1eb511435ee85396d7015.svg",
+    "static/media/magnifying-glass-solid.svg": "/static/media/magnifying-glass-solid.06e310dbfbf3ab21da478aef6c037c14.svg",
+    "static/media/user-solid.svg": "/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
+    "main.e6a129b7.css.map": "/static/css/main.e6a129b7.css.map",
+    "main.88af7ddc.js.map": "/static/js/main.88af7ddc.js.map",
+    "787.8d9e418e.chunk.js.map": "/static/js/787.8d9e418e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a129b7.css",
+    "static/js/main.88af7ddc.js"
+  ]
+}
